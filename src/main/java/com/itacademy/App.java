@@ -1,4 +1,4 @@
-package com.gamutkart;
+package com.itacademy;
 
 /**
  * Hello world!

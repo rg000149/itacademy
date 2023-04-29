@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GamutKart!</title>
+<title>IT-Academy!</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,15 +27,15 @@
 	<div class="container">
 
 		<header>
-			<h1>GamutKart Retail Store . DEVOPS-TRAINING: 9739368768 ...</h1>
+			<h1>IT-Academy Technical Channel . DEVOPS-TRAINING: 9440506070 ...</h1>
 		</header>
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">Fashion</a></li>
-				<li><a href="#tabs-2">Electronics</a></li>
-				<li><a href="#tabs-3">Groceries</a></li>
-				<li><a href="#tabs-4">Mobiles</a></li>
+			<li><a href="#tabs-1">Education</a></li>
+				<li><a href="#tabs-2">Training</a></li>
+				<li><a href="#tabs-3">Internship</a></li>
+				<li><a href="#tabs-4">Placements</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>Jenkins is a powerful application that allows continuous
@@ -101,7 +101,7 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
+				<p>Microsoft</p>
 				<p>Apple</p>
 			</div>
 		</div>
@@ -109,7 +109,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; itacademy technologies Pvt. Ltd. </footer>
 	</div>
 
 </body>
